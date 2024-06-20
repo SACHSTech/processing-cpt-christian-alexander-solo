@@ -3,3 +3,4 @@
 # Program Title (edit this)
 
 Put your program description here.
+A program to control a square and have it collect coins and get to the end.
